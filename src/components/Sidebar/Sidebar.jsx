@@ -1,7 +1,7 @@
-// src/components/layout/Sidebar.jsx
+'use client';
 
 import Link from 'next/link';
-import { Home, Settings, Users } from 'lucide-react'; // Example Icons
+import { Home, Settings, Users } from 'lucide-react';
 
 export default function Sidebar() {
   const navItems = [
