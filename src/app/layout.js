@@ -2,7 +2,7 @@ import '@/styles/globals.css';
 import { Inter } from 'next/font/google';
 
 // Absolute imports for components used globally
-import Dashboard from '@/dashboard/dashboard';
+// import Dashboard from '@/dashboard/dashboard';
 // import Sidebar from '@/components/layout/Sidebar.jsx';
 
 const inter = Inter({ subsets: ['latin'] });
